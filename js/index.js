@@ -4,7 +4,7 @@ Temperature Conversion. Converts Kelvin to Fahrenheit and Newton
 */
 
 // set the forecast in kelvin
-const kelvin = 0;
+const kelvin = 300;
 
 // celsius conversion, celsius is always 273 degrees less than kelvin
 const celsius = kelvin - 273;
